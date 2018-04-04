@@ -12,7 +12,7 @@
                     <div class="media">
                         <div align="center">
                             <img class="thumbnail img-responsive"
-                                 src="https://fsdhubcdn.phphub.org/uploads/images/201709/20/1/PtDKbASVcz.png?imageView2/1/w/600/h/600"
+                                 src="{{ $user->avatar }}"
                                  width="300px" height="300px">
                         </div>
                         <div class="media-body">
